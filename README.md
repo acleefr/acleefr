@@ -1,7 +1,8 @@
 ### Hello World ! I am Arthur Benajamin Clement !
 
-- 🔭 FullStack Developer (JavaScript, React, HTML/CSS, Python, DjangoAdmin)
-- 🌱 Learning TypeScript, Docker, Kubrnetes
+- 👨🏻‍💻 FullStack Developer at www.Aclee.fr (JavaScript, React, HTML/CSS, Python, DjangoAdmin)
+- 🦫 Product Manager at www.Buildrz.io 
+- 🎓 Learning TypeScript, Docker, Kubrnetes
 - 📫 How to reach me: arthur@aclee.fr
 
 ### Learn about the future of Proptech on Buildrz.io 🏢
