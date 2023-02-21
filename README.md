@@ -5,10 +5,6 @@
 - 🎓 Learning TypeScript, Docker, Kubrnetes
 - 📫 How to reach me: arthur@aclee.fr
 
-### Learn about the future of Proptech on Buildrz.io 🏢
-
-![image](https://user-images.githubusercontent.com/44200503/190443947-b8b0ddae-84f5-4ff8-ba6a-9ae908c93225.png)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ArthurCIement" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mszeles" height="30" width="40" /></a>
