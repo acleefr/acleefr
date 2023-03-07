@@ -1,4 +1,4 @@
-### Hello World ! I am Arthur Benajamin Clement !
+### Hello World ! I am Arthur Benjamin Clement !
 
 - 👨🏻‍💻 FullStack Developer at www.Aclee.fr (JavaScript, React, HTML/CSS, Python, DjangoAdmin)
 - 🦫 Product Manager at www.Buildrz.io 
