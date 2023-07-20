@@ -1,10 +1,11 @@
 ### Hello World ! I am Arthur Benjamin Clement !
 
-- 👨🏻‍💻 FullStack Developer at www.Aclee.fr (JavaScript, React, HTML/CSS, Python, DjangoAdmin)
+- 👨🏻‍💻 FullStack Engineer at www.Aclee.fr (JavaScript, Typescript, React, HTML/CSS, Python, DjangoAdmin)
 - 🦫 Product Manager at www.Buildrz.io 
-- 🎓 Learning TypeScript, Docker, Kubrnetes
+- 🎓 Learning Docker, Kubrnetes, Cloud (AWS, Google, Azure)
 - 📫 How to reach me: arthur@aclee.fr
 
+- 🔭 I’m currently open to opportunities : don't hesitate to contact me
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/acleefr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Acleefr" /></a></p><br><br>
