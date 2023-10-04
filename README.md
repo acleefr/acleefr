@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 FullStack Engineer at www.Aclee.fr (JavaScript, Typescript, React, HTML/CSS, Python, DjangoAdmin)
 - 🦫 Product Manager at www.Diabolocom.com (SaaS Management)
-- 🚀 Launching The Cool Studio (Open-source librairies actor)
+- 🚀 Launching <p><a href="http://www.thecoolblog.aclee.fr/"></a>The Cool Studio </p> (Open-source librairies actor)
 - 🎓 Learning Docker, Kubrnetes, Cloud (AWS, Google, Azure)
 - 📫 How to reach me: arthur@aclee.fr
   
