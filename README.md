@@ -1,10 +1,11 @@
 ### Hello World ! I am Arthur Benjamin Clement !
 
 - 👨🏻‍💻 FullStack Engineer at www.Aclee.fr (JavaScript, Typescript, React, HTML/CSS, Python, DjangoAdmin)
-- 🦫 Product Manager at www.Buildrz.io 
+- 🦫 Product Manager at www.Diabolocom.com (SaaS Management)
+- 🚀 Launching The Cool Studio (Open-source librairies actor)
 - 🎓 Learning Docker, Kubrnetes, Cloud (AWS, Google, Azure)
 - 📫 How to reach me: arthur@aclee.fr
-
+  
 - 🔭 I’m currently open to opportunities : don't hesitate to contact me
 
 <h3 align="left">Support:</h3>
