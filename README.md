@@ -1,4 +1,4 @@
-### Hello World ! I am Arthur Benjamin Clement !
+### Hello World ! I am Arthur !
 
 - 👨🏻‍💻 FullStack Engineer at <a href="https://www.aclee.fr/">Aclee</a> (JavaScript, Typescript, React, HTML/CSS, Python, DjangoAdmin)
 - 🦫 Product Manager at <a href="https://fr.diabolocom.ai/">Diabolocom</a> (AI SaaS Management)
