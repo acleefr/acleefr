@@ -1,11 +1,11 @@
 ### Hello World ! I am Arthur !
 
-- 👨🏻‍💻 FullStack Engineer at <a href="https://www.aclee.fr/">Aclee</a> (JavaScript, Typescript, React, HTML/CSS, Python, DjangoAdmin)
+- 👨🏻‍💻 Solo Entrepreneur at <a href="https://www.aclee.fr/">Aclee</a> (Web Creative Agency)
 - 🦫 Product Manager at <a href="https://fr.diabolocom.ai/">Diabolocom</a> (AI Cloud Contact Center Software)
 - 🚀 Launching <a href="http://www.thecoolblog.aclee.fr/">The Cool Studio</a> (Python Open-source librairies actor)
-- 🎓 Learning Docker, Kubrnetes, Cloud (AWS, Google, Azure)
 - 📫 How to reach me: arthur@aclee.fr
-  
+
+- 👨🏻‍💻 Writting on <a href="https://thecoolblog.aclee.fr/">my blog</a>
 - 🔭 I’m currently open to opportunities : don't hesitate to contact me
 
 <h3 align="left">Support:</h3>
