@@ -1,12 +1,12 @@
 ### Hello World ! I am Arthur !
 
 - 👨🏻‍💻 Solo Entrepreneur at <a href="https://www.aclee.fr/">Aclee</a> (Web Creative Agency)
-- 🦫 Product Manager at <a href="https://fr.diabolocom.ai/">Diabolocom</a> (AI Cloud Contact Center Software)
+- 🦫 Product Manager at <a href="https://fr.diabolocom.ai/">Diabolocom</a> (AI Powerered Cloud Contact Center Software)
 - 🚀 Launching <a href="http://www.thecoolblog.aclee.fr/">The Cool Studio</a> (Python Open-source librairies actor)
 - 📫 How to reach me: arthur@aclee.fr
 
 - 👨🏻‍💻 Writting on <a href="https://thecoolblog.aclee.fr/">my blog</a>
-- 🔭 I’m currently open to opportunities : don't hesitate to contact me
+- 🔭 I’m currently open to New-York city opportunities : don't hesitate to contact me
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/acleefr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Acleefr" /></a></p><br><br>
