@@ -5,7 +5,7 @@
 - 🚀 Launching <a href="http://www.thecoolblog.aclee.fr/">The Cool Studio</a> (Python Open-source librairies actor)
 - 📫 How to reach me: arthur@aclee.fr
 
-- 👨🏻‍💻 Writting on <a href="https://thecoolblog.aclee.fr/">my blog</a>
+- 👨🏻‍💻 Writting on <a href="https://blog.aclee.fr/">my blog</a>
 - 🔭 I’m currently open to New-York city opportunities : don't hesitate to contact me
 
 <h3 align="left">Support:</h3>
