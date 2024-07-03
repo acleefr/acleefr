@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Solo Entrepreneur at <a href="https://www.aclee.fr/">Aclee</a> (Web Creative Agency)
 - 🦫 Product Manager at <a href="https://fr.diabolocom.ai/">Diabolocom</a> (AI Powerered Cloud Contact Center Software)
-- 🚀 Launching <a href="http://www.thecoolblog.aclee.fr/">The Cool Studio</a> (Python Open-source librairies actor)
+- 🚀 Launching <a href="https://github.com/thecoolstudio">The Cool Studio</a> (Python Open-source librairies actor)
 - 📫 How to reach me: arthur@aclee.fr
 
 - 👨🏻‍💻 Writting on <a href="https://blog.aclee.fr/">my blog</a>
