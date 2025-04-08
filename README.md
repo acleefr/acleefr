@@ -6,7 +6,6 @@
 - 📫 How to reach me: arthur@aclee.fr
 
 - 👨🏻‍💻 Writting on <a href="https://blog.aclee.fr/">my blog</a>
-- 🔭 I’m currently open to New-York city opportunities : don't hesitate to contact me
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/acleefr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Acleefr" /></a></p><br><br>
