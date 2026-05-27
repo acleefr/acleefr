@@ -1,30 +1,47 @@
-### Hello World ! I am Arthur !
+## Arthur Clément — PM by day, builder by night.
 
-- 👨🏻‍💻 Solo Entrepreneur at <a href="https://www.aclee.fr/">Aclee</a> (Web Creative Agency)
-- 🦫 Product Manager at <a href="https://fr.diabolocom.ai/">Diabolocom</a> (AI Powerered Cloud Contact Center Software)
-- 🚀 Launching <a href="https://github.com/thecoolstudio">The Cool Studio</a> (Python Open-source librairies actor)
-- 📫 How to reach me: arthur@aclee.fr
+Product Manager at [Diabolocom](https://fr.diabolocom.ai/) · Building SaaS, backends & side projects at [aclee.fr](https://aclee.fr/)
 
-- 👨🏻‍💻 Writting on <a href="https://blog.aclee.fr/">my blog</a>
+Fast-paced, rough-edged execution. École 42 + Efrei Paris. Based between Savoy, Brittany & Paris.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/acleefr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Acleefr" /></a></p><br><br>
-<br><a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/78789492' target="_clean">
-  Follow me on
-  <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
+---
+
+### What I'm building
+
+- **[Diabolocom](https://fr.diabolocom.ai/)** — AI-powered cloud contact center. I drive product here.
+- **[aclee.fr](https://aclee.fr/)** — my personal space. SaaS projects, backends, side builds & blog.
+
+---
+
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### Off the screen
+
+Trail running · Sub-3h marathons · Sailing · Surfing · Skiing
+
+<a href="https://strava.com/athletes/78789492" target="_blank">
+  <img src="https://img.shields.io/badge/Strava-FC4C02?style=flat-square&logo=strava&logoColor=white" alt="Strava"/>
 </a>
 
-<!--
-**Acleefr/acleefr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Find me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://aclee.fr">aclee.fr</a> · <a href="mailto:arthur@aclee.fr">arthur@aclee.fr</a> · <a href="https://x.com/acleefr">X</a> · <a href="https://www.linkedin.com/in/arthurclement/">LinkedIn</a>
+
+<a href="https://www.buymeacoffee.com/acleefr">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee"/>
+</a>
+
+---
+
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=acleefr&show_icons=true&hide_border=true&theme=graywhite&hide_title=true&count_private=true)
