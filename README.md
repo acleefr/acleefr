@@ -38,7 +38,7 @@ Trail running · Sub-3h marathons · Sailing · Surfing · Skiing
 
 <a href="https://aclee.fr">aclee.fr</a> · <a href="mailto:arthur@aclee.fr">arthur@aclee.fr</a> · <a href="https://x.com/acleefr">X</a> · <a href="https://www.linkedin.com/in/arthurclement/">LinkedIn</a>
 
-<a href="https://www.buymeacoffee.com/acleefr">
+<a href="https://buymeacoffee.com/acleedotfr">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee"/>
 </a>
 
